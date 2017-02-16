@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="10" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="201100" started-at="2017-02-16T18:29:17Z" finished-at="2017-02-16T18:32:38Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="105640" started-at="2017-02-16T18:29:17Z" finished-at="2017-02-16T18:31:02Z">
+      <class name="com.scripts.page.CreateEmployee">
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="initGlobalVar" is-config="true" duration-ms="0" started-at="2017-02-16T23:59:17Z" finished-at="2017-02-16T23:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlobalVar -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="initApplication" is-config="true" duration-ms="14109" started-at="2017-02-16T23:59:17Z" finished-at="2017-02-16T23:59:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="preCondition" is-config="true" duration-ms="3776" started-at="2017-02-16T23:59:31Z" finished-at="2017-02-16T23:59:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.page.CreateEmployee.testCreateEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testCreateEmployee()[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="testCreateEmployee" duration-ms="10513" started-at="2017-02-16T23:59:35Z" finished-at="2017-02-16T23:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateEmployee -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="postCondition" is-config="true" duration-ms="179" started-at="2017-02-16T23:59:45Z" finished-at="2017-02-16T23:59:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateEmployee status=SUCCESS method=CreateEmployee.testCreateEmployee()[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.scripts.page.CreateEmployee@ff5b51f]" name="closeApplication" is-config="true" duration-ms="1685" started-at="2017-02-16T23:59:45Z" finished-at="2017-02-16T23:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.scripts.page.CreateEmployee -->
+      <class name="com.scripts.page.DeleteEmployee">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6]" name="initApplication" is-config="true" duration-ms="7473" started-at="2017-02-16T23:59:47Z" finished-at="2017-02-16T23:59:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6]" name="preCondition" is-config="true" duration-ms="1676" started-at="2017-02-16T23:59:54Z" finished-at="2017-02-16T23:59:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.page.DeleteEmployee.testDeleteEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testDeleteEmployee()[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6]" name="testDeleteEmployee" duration-ms="64550" started-at="2017-02-16T23:59:56Z" finished-at="2017-02-17T00:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEmployee -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6]" name="postCondition" is-config="true" duration-ms="108" started-at="2017-02-17T00:01:01Z" finished-at="2017-02-17T00:01:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDeleteEmployee status=SUCCESS method=DeleteEmployee.testDeleteEmployee()[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.scripts.page.DeleteEmployee@25bbe1b6]" name="closeApplication" is-config="true" duration-ms="1545" started-at="2017-02-17T00:01:01Z" finished-at="2017-02-17T00:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.scripts.page.DeleteEmployee -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="95443" started-at="2017-02-16T18:31:02Z" finished-at="2017-02-16T18:32:38Z">
+      <class name="com.scripts.page.CreateEmployee">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="initReport" is-config="true" duration-ms="284" started-at="2017-02-16T23:59:16Z" finished-at="2017-02-16T23:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="initGlobalVar" is-config="true" duration-ms="13" started-at="2017-02-17T00:01:02Z" finished-at="2017-02-17T00:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlobalVar -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="initApplication" is-config="true" duration-ms="4955" started-at="2017-02-17T00:01:02Z" finished-at="2017-02-17T00:01:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="preCondition" is-config="true" duration-ms="3714" started-at="2017-02-17T00:01:07Z" finished-at="2017-02-17T00:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.page.CreateEmployee.testCreateEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testCreateEmployee()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="testCreateEmployee" duration-ms="9805" started-at="2017-02-17T00:01:11Z" finished-at="2017-02-17T00:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateEmployee -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="postCondition" is-config="true" duration-ms="779" started-at="2017-02-17T00:01:21Z" finished-at="2017-02-17T00:01:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateEmployee status=SUCCESS method=CreateEmployee.testCreateEmployee()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="closeApplication" is-config="true" duration-ms="914" started-at="2017-02-17T00:01:22Z" finished-at="2017-02-17T00:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.scripts.page.CreateEmployee@66480dd7]" name="publishReport" is-config="true" duration-ms="547" started-at="2017-02-17T00:02:38Z" finished-at="2017-02-17T00:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- com.scripts.page.CreateEmployee -->
+      <class name="com.scripts.page.DeleteEmployee">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356]" name="initApplication" is-config="true" duration-ms="3338" started-at="2017-02-17T00:01:22Z" finished-at="2017-02-17T00:01:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356]" name="preCondition" is-config="true" duration-ms="3201" started-at="2017-02-17T00:01:26Z" finished-at="2017-02-17T00:01:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.page.DeleteEmployee.testDeleteEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testDeleteEmployee()[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356]" name="testDeleteEmployee" duration-ms="67182" started-at="2017-02-17T00:01:29Z" finished-at="2017-02-17T00:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEmployee -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356]" name="postCondition" is-config="true" duration-ms="604" started-at="2017-02-17T00:02:36Z" finished-at="2017-02-17T00:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDeleteEmployee status=SUCCESS method=DeleteEmployee.testDeleteEmployee()[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.scripts.page.DeleteEmployee@52a86356]" name="closeApplication" is-config="true" duration-ms="938" started-at="2017-02-17T00:02:37Z" finished-at="2017-02-17T00:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.scripts.page.DeleteEmployee -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

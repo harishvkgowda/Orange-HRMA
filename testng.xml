@@ -1,0 +1,9 @@
+<suite name="Suite" parallel="none">
+  <test name="Test1">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.scripts.page.CreateEmployee"/>
+      <class name="com.scripts.page.DeleteEmployee"/>
+    </classes>
+  </test>
+</suite>

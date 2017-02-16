@@ -1,0 +1,306 @@
+com.scripts.page.CreateEmployee 2017-02-16 22:28:36,130 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:36,370 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:36,385 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:58,357 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:58,794 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:58,812 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:58,858 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:59,110 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:28:59,112 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 22:29:29,137 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:29:51,008 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:29:52,459 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:29:56,051 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.DeleteEmployee 2017-02-16 22:30:26,944 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.DeleteEmployee 2017-02-16 22:30:27,213 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.DeleteEmployee 2017-02-16 22:30:27,223 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 22:30:35,385 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:04,398 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:26,825 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:48,979 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:49,077 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:49,756 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:31:50,864 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:00,132 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:00,416 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:00,416 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:14,054 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:14,275 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:14,275 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:43,442 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:43,690 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:34:43,701 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:35:10,190 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:35:23,600 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:35:23,820 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:35:25,920 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:35:35,965 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:35:50,007 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:35:50,122 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:35:51,810 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:29,125 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:29,410 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:29,416 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:38,373 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:50,383 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:36:50,477 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:36:52,157 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:37:00,529 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:37:25,249 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:37:45,651 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:38:06,051 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:38:06,104 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:38:06,189 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:38:07,807 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:38,270 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:38,495 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:38,495 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:47,404 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:51,081 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:41:51,233 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:41:53,042 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:42:00,498 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:42:24,735 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:42:45,187 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:43:05,686 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:43:05,755 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:43:05,840 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:43:07,440 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:17,391 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:17,660 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:17,673 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:25,038 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:37,763 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:44:38,530 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:44:39,521 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 22:44:44,237 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:45:08,771 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:45:31,000 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:45:53,219 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:45:53,243 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:45:53,869 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:45:54,752 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:46:55,635 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:46:55,951 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:46:55,957 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:03,767 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:07,341 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:07,474 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:47:09,181 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:47:16,896 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:47:29,926 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:47:30,004 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:31,589 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:38,211 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:38,465 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:47:38,476 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:48:43,963 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:48:44,232 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:48:44,235 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:48:52,610 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:04,657 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:04,753 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:49:06,449 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:49:13,964 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:49:27,381 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:49:27,467 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:29,013 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:54,464 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:54,718 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:49:54,725 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:50:03,213 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:50:15,502 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:50:15,589 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:50:17,282 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 22:50:24,474 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:50:48,879 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:51:09,301 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:51:29,713 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:51:29,755 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:51:29,860 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:51:31,438 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:29,398 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:29,636 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:29,636 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:29,652 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:29,652 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:35,856 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:40,867 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:56,406 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 22:52:56,523 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:52:58,185 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 22:53:06,332 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:07,268 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 22:53:07,336 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:08,380 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:14,662 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:20,708 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:20,791 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 22:53:39,805 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:54:02,118 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:54:24,399 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 22:54:24,431 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 22:54:25,045 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 22:54:26,000 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:27,722 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:27,939 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:27,939 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:27,954 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:27,954 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:35,597 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:45,071 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:49,084 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:49,319 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:01:51,330 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:55,826 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:01:56,708 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:01:57,649 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:04,442 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:06,923 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:31,036 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:33,740 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:51,489 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:02:56,109 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:03:11,935 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:03:11,972 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:03:12,088 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:03:17,194 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:03:17,826 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:03:18,748 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:03:55,045 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:03:55,323 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:03:55,329 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:04:00,846 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:04:13,493 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:04:14,192 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:04:15,188 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 23:04:19,913 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:04:44,338 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:05:06,418 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:05:28,494 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:05:28,532 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:05:29,575 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:05:30,397 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:05:30,397 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:06:47,156 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:06:47,425 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:06:47,441 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:06:53,099 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:07:06,020 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:07:06,745 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:07:07,847 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 23:07:12,508 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:07:37,054 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:07:59,632 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:08:21,812 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:08:21,850 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:08:22,481 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:08:23,459 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:08:23,462 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:33,620 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:33,874 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:33,888 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:35,307 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:35,312 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:40,278 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:52,978 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:09:53,679 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:09:54,734 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 23:09:59,578 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:10:24,059 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:10:46,222 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:11:08,478 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:11:08,532 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:11:09,170 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:11:10,064 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:39,219 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:39,487 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:39,488 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:40,962 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:40,967 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:45,691 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:12:48,168 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:25,791 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:26,038 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:26,053 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:34,822 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:46,099 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:13:46,250 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:13:48,040 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 23:13:55,586 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:14:20,322 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:14:40,751 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:01,175 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:01,242 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:01,322 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:15:02,881 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:15:02,887 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:15:10,370 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:15:20,982 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:15:21,103 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:22,597 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:29,940 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:15:53,998 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:16:14,511 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:16:34,960 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:16:35,004 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:16:35,092 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:16:36,610 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:23,190 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:23,544 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:23,559 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:39,007 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:54,349 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:56:55,075 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:56:56,823 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-16 23:57:04,827 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-16 23:57:29,483 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:57:51,541 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:58:13,931 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-16 23:58:13,978 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-16 23:58:14,560 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-16 23:58:15,479 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:58:15,490 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:16,844 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:17,112 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:17,128 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:33,380 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:45,534 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-16 23:59:45,712 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-16 23:59:47,399 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:firefox 
+com.scripts.page.DeleteEmployee 2017-02-16 23:59:55,530 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-17 00:00:20,303 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:00:40,703 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:01,059 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:01,098 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:01,206 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-17 00:01:02,769 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-17 00:01:02,783 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-17 00:01:09,576 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-17 00:01:21,256 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-17 00:01:22,035 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:22,949 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:27,684 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-17 00:01:51,997 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:02:14,270 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:02:36,649 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:02:36,670 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-17 00:02:37,274 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-17 00:02:38,228 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-17 00:20:52,407 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-17 00:23:59,297 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-17 00:32:14,782 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-17 00:42:44,184 com.base.pages.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.scripts.page.CreateEmployee 2017-02-17 00:42:44,516 com.base.pages.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.scripts.page.CreateEmployee 2017-02-17 00:42:44,518 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.CreateEmployee 2017-02-17 00:42:52,825 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.CreateEmployee 2017-02-17 00:43:05,650 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.CreateEmployee 2017-02-17 00:43:06,353 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.DeleteEmployee 2017-02-17 00:43:07,997 com.base.pages.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.scripts.page.DeleteEmployee 2017-02-17 00:43:13,895 com.base.pages.BaseTest.preCondition(BaseTest.java:105) Auto login 
+com.scripts.page.DeleteEmployee 2017-02-17 00:43:38,394 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:44:00,513 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:44:22,835 com.scripts.page.DeleteEmployee.testDeleteEmployee(DeleteEmployee.java:42) Pass:Employee deleted sucessfully 
+com.scripts.page.DeleteEmployee 2017-02-17 00:44:22,920 com.base.pages.BaseTest.postCondition(BaseTest.java:118) Auto logout 
+com.scripts.page.DeleteEmployee 2017-02-17 00:44:23,527 com.base.pages.BaseTest.closeApplication(BaseTest.java:96) Closing Browser 
+com.scripts.page.CreateEmployee 2017-02-17 00:44:24,452 com.base.pages.BaseTest.publishReport(BaseTest.java:64) publishing ExtentReport 

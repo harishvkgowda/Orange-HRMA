@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test2(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.scripts.page.DeleteEmployee">
+        <methods>
+          <include name="preCondition"/>
+          <include name="closeApplication"/>
+          <include name="testDeleteEmployee"/>
+          <include name="initApplication"/>
+          <include name="postCondition"/>
+        </methods>
+      </class> <!-- com.scripts.page.DeleteEmployee -->
+      <class name="com.scripts.page.CreateEmployee">
+        <methods>
+          <include name="testCreateEmployee"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+          <include name="initGlobalVar"/>
+          <include name="closeApplication"/>
+          <include name="initApplication"/>
+          <include name="initApplication"/>
+          <include name="initReport"/>
+          <include name="postCondition"/>
+        </methods>
+      </class> <!-- com.scripts.page.CreateEmployee -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
